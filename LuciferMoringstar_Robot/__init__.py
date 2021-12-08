@@ -29,12 +29,14 @@ HELP = """
 
 <b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT></b>
+@Z_Bots></b>
 """
 
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
-    
+
+➥ Editor 2: MadToAzenzIo
+
 ➥ Credits : Subin
 
 ➥ Editing : [Muhammed RK](t.me/Mrk_YT)
